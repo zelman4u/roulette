@@ -1,0 +1,6 @@
+{
+  "name": "Roulette Wheel - Random Winner Picker",
+  "description": "An interactive, colorful roulette wheel and random winner picker supporting up to 100 participants with physics-based spins, virtual entertainment betting, and winner history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
